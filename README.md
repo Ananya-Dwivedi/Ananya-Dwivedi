@@ -1,4 +1,4 @@
-                                            # Hi, I’m Ananya 👋✨
+# Hi, I’m Ananya 👋✨
 
 🚀 Frontend developer in progress — currently learning **React** after building with **HTML, CSS & JavaScript**.  
 
