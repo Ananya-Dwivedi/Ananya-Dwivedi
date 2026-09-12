@@ -32,8 +32,7 @@ Backend
 Tools
 
 🔧 Git & GitHub
-🌟 Featured Projects
-🖥️ Personal Portfolio Website
+
 ---
 
 My own corner of the web — built from scratch with pure HTML & CSS.
