@@ -1,4 +1,4 @@
-# Hi, I’m Ananya 👋✨
+# Hola , I’m Ananya !✨
 
 🚀 Frontend developer in progress, now branching into backend — building with React, HTML, CSS & JavaScript on the frontend, and exploring FastAPI, Flask & SQL on the backend.  
 
